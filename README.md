@@ -1,2 +1,2 @@
 # R_practice
-## Practice repo for learning GitHub and R
+### Practice repo for learning GitHub and R
